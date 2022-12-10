@@ -9,4 +9,10 @@ h1{
     color: cadetblue;
     font-family: 'Rubik Gemstones', cursive;
 }
-
+ p{
+    text-align: center ;
+ }
+button{
+    display: block;
+    margin: auto;
+}
